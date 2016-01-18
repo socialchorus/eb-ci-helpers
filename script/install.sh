@@ -5,7 +5,7 @@ install_dir="/usr/local/bin"
 
 cd $tmp_dir
 
-wget https://github.com/synctree/eb-ci-helpers/archive/master.zip
+wget https://github.com/socialchorus/eb-ci-helpers/archive/master.zip
 unzip master.zip
 
 cd $install_dir
